@@ -4,6 +4,6 @@
 	--color-primary: #750101;
 }
 @utility container {
-	padding-inline: 10px;
+	padding-inline: 20px;
 	margin-inline: auto;
 }
