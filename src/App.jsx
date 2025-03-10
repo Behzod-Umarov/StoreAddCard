@@ -1,5 +1,3 @@
-"use client"
-
 import { useEffect } from "react"
 import { Cart, Filter, Home, Navbar, Wishlist, Login, SignUp } from "./components"
 import { Route, Routes, Navigate } from "react-router-dom"
